@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/Shantela21/intro-section-with-dropdown-navigation-main/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="intro-section-with-dropdown-navigation-main" width="640" height="320" />
+
 # Frontend Mentor - Intro section with dropdown navigation
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
